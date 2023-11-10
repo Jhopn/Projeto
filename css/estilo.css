@@ -1,0 +1,130 @@
+html {
+    font-family: "Lobster", cursive;
+    background-color: #AAA;
+}
+
+.nav{
+    background-color: rgb(255, 255, 255);
+    border-radius: 5px;
+    position: relative;
+    height: 80px;
+    padding: 0.6rem;
+    box-sizing: border-box;
+}
+.home{
+    display: inline;
+    position: absolute;
+    border-left: 1px solid #AAA;
+    border-right: 1px solid #AAA;
+    left: 10%;
+}
+.contato{
+    display: inline;
+    position: absolute;
+    border-left: 1px solid #AAA;
+    border-right: 1px solid #AAA;
+    right: 25%;
+}
+.wikepedia{
+    display: inline;
+    position: absolute;
+    border-left: 1px solid #AAA;
+    border-right: 1px solid #AAA;
+    right: 5%;
+}
+.none{
+    padding: 0.3rem;
+    text-decoration: none;
+    color: black;
+}
+.container{
+    background-color: white;
+    border-radius: 5px;
+    margin-right: 8%;
+    margin-left: 8%;
+    text-align: center;
+    padding-bottom: 1rem;
+}
+.cabecalho{
+    margin: 1.5rem;
+}
+.titulo{
+    font-size: 60px;
+    padding-top: 3rem;
+}
+.subtitulo{
+    font-style: italic;
+    padding: 1rem;
+}
+.destaque-image img{
+    border-radius: 5px;
+}
+.sobre{
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
+    text-align: start;
+    margin: 3%;
+}
+.sobre h2{
+    margin-top: 3%;
+}
+.historia{
+    text-align: start;
+    margin: 3%;
+}
+.img-historia img{
+    border-radius: 5px;
+}
+.cite{
+    background-color:rgb(219, 213, 213);
+    border-radius: 20px;
+    margin: 20px;
+    padding: 3%;
+    text-align: start;
+    font-style: initial;
+}
+.cite blockquote{
+    font-size: 40px;
+    font-weight: bold;
+}
+.educacao{
+    text-align: start;
+    margin: 3%;
+    border-bottom: 3px solid#AAA;
+}
+.educacao li{
+    padding: 0.5rem;
+}
+.bairro-povoado{
+    margin: 3%;
+    border-bottom: 3px solid#AAA;
+}
+.bairro-povoado h2{
+    text-align: start;
+}
+.bairro-povoado div{
+    display: inline-block;
+    border-left: 1px solid grey;
+    padding: 1rem;
+    margin: 1rem;
+    text-align: start;
+}
+.mais-informacao{
+    text-align: start;
+    padding: 1rem;
+    box-sizing: border-box;
+    margin: 3%;
+    background-color: rgb(219, 213, 213);
+    border-radius: 8px;
+}
+.footer{
+    width: 100%;
+    background-color: rgb(240, 240, 240);
+    position: fixed;
+    right: 0px;
+    bottom: 0px;
+    text-align: center;
+    height: 4%;
+    padding: 0.62rem;
+    box-sizing: border-box;
+}
