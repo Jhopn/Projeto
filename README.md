@@ -1,3 +1,3 @@
-# Projeto
+# Website for learning
 
-Desenvolvendo habilidades em CSS e HTML
+development skills in CSS e HTML
